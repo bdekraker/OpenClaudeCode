@@ -19,6 +19,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/98812858-5dfc-47d9-8601-6c616244e096)
+
+
 ## Installation
 
 Getting OpenClaudeCode up and running is straightforward. Here’s how:
@@ -103,6 +106,9 @@ Extra Options:
 - `--model`: Pick a different Claude model (e.g., `--model claude-3-7-sonnet-latest`).
 - `--max-tokens`: Limit response length (e.g., `--max-tokens 500`).
 - `-p` or `--print`: Run the command and exit without opening the REPL.
+
+  ![image](https://github.com/user-attachments/assets/3247afaf-ad15-484f-b550-eb7f4a42e7f7)
+
 
 ### Examples
 
