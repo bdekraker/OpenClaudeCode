@@ -70,21 +70,6 @@ If you don’t create this file, OpenClaudeCode will use default settings (a spe
 
 You can use OpenClaudeCode in two ways: quick commands via the CLI or an interactive REPL for ongoing chats.
 
-### Command-Line Interface
-
-Run a single command like this:
-
-```bash
-python main.py "show me the files in this folder"
-```
-
-The AI will respond and then exit.
-
-Extra Options:
-
-- `--model`: Pick a different Claude model (e.g., `--model claude-3-7-sonnet-latest`).
-- `--max-tokens`: Limit response length (e.g., `--max-tokens 500`).
-- `-p` or `--print`: Run the command and exit without opening the REPL.
 
 ### Interactive REPL
 
@@ -101,6 +86,23 @@ REPL Commands:
 - `/help`: See a list of tools and tips.
 - `/permissions`: Control which tools can run automatically.
 - `/exit`: Quit the session.
+
+
+### Command-Line Interface
+
+Run a single command like this:
+
+```bash
+python main.py "show me the files in this folder"
+```
+
+The AI will respond and then exit.
+
+Extra Options:
+
+- `--model`: Pick a different Claude model (e.g., `--model claude-3-7-sonnet-latest`).
+- `--max-tokens`: Limit response length (e.g., `--max-tokens 500`).
+- `-p` or `--print`: Run the command and exit without opening the REPL.
 
 ### Examples
 
