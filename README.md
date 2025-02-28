@@ -183,15 +183,4 @@ This project is licensed under the **GNU GENERAL PUBLIC LICENSE (GPL)**. See the
 
 ---
 
-### Additional Steps for GitHub Distribution
 
-To ensure "OpenClaudeCode" is fully ready for GitHub, here are a few extra steps:
-
-1. **Create a `requirements.txt`**:  
-   Since your project uses external libraries (`anthropic`, `keyring`, `click`, `rich`), list them in a `requirements.txt` file:
-   ```plaintext
-   anthropic
-   keyring
-   click
-   rich
-   ```
