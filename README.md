@@ -2,6 +2,12 @@
 
 **OpenClaudeCode** is a simple yet powerful Python tool that brings Anthropic's Claude AI to your terminal. Think of it as your personal coding assistant! You can ask it questions, run commands, manage files, or even handle Git tasks—all from a command-line interface (CLI) or an interactive session (REPL). Whether you're a developer or just curious about AI, OpenClaudeCode makes it easy to get started.
 
+
+
+https://github.com/user-attachments/assets/a8ae2d40-50d7-42fe-a7bf-4a139d5993b7
+
+
+
 ---
 
 ## Table of Contents
